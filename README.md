@@ -1,8 +1,4 @@
-### Hi there 👋
-
-I am Parth Paradkar. 
-I am currently working as a Software Engineer at Cisco Systems. 
-
+### Hi there 👋 
 
 [Blog](https://parth-paradkar.me) | [LinkedIn](https://www.linkedin.com/in/parth-paradkar/) | [Resume](https://parth-paradkar.me/cv.pdf)
 - 📫 How to reach me: 
